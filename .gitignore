@@ -9,3 +9,4 @@ ops.json
 server.jar
 server.properties
 whitelist.json
+*.bat
