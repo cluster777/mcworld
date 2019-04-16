@@ -1,5 +1,7 @@
-# Files are for server client and such #
+# Files and folders are for server client and such #
 ########################################
+crash-reports/
+logs/
 banned-ips.json
 banned-players.json
 eula.txt
