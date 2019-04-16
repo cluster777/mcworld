@@ -1,0 +1,9 @@
+# Files are for server client and such #
+########################################
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+server.jar
+server.properties
+whitelist.json
